@@ -5,33 +5,24 @@ date: 2016-02-03T21:22:20+02:00
 modified:
 excerpt:
 tags: []
+share: false
 image:
   feature:
 ---
 
-Johnny Coder
+Sergey Elkin
 ============
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+<serelk@gmail.com>\\
+<https://www.linkedin.com/in/serelk>\\
++(972) 545313202
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
 2007-2010
 :   **BSc, Computer Science and Electrical Engineering**; University of
     HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
