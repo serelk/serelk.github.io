@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Overcoming gravity
 locale:           en_US
 url:
 
@@ -41,13 +41,13 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
+  name: Serge Elkin
+  avatar: avatar.jpg
   bio: "Describe your self."
-  email:
+  email: 
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: #serelk
+  facebook: #serelk
   google:
     plus: #username
     analytics:
