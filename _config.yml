@@ -46,8 +46,8 @@ owner:
   bio: "Describe your self."
   email: 
   disqus-shortname:
-  twitter: #serelk
-  facebook: #serelk
+  twitter: serelk
+  facebook: serelk
   google:
     plus: #username
     analytics:
@@ -55,11 +55,11 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: serelk
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
-  instagram: #username
+  instagram: #serelk
   lastfm: #username
   tumblr: #username
   pinterest: #username
