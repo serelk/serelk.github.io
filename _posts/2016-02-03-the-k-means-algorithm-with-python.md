@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The k-Means algorithm with Python
+title: The k-means algorithm with Python
 modified:
 categories: 
 excerpt:
@@ -15,7 +15,8 @@ Every cluster is represented by centroid , which is the arithmetic mean of data 
 
 ### k-means clustering
 * **Pros:** Easy to implement
-* **Cons:** Can converge at local minima; slow on very large datasets Works with: Numeric values
+* **Cons:** Can converge at local minima; slow on very large datasets 
+* **Works with:** Numeric values
 
 Let's look at how the k-means operates on the simple dataset. First off , we will generate some data  and use scatter plot to visualize a relationships.
 
