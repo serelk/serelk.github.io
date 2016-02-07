@@ -17,6 +17,10 @@ Sergey Elkin
 <https://www.linkedin.com/in/serelk>\\
 +(972) 545313202
 
+Summary 
+--------
+Over 20 years of experience with proven track record, building scalable data communication system  . While I had started my career in the telecommunication domain, much of my recent work has been in building large-scale data processing systems and cloud solutions . Interested in big data engineering and machine learning , with big passion for Python and Open Source. 
+
 Education
 ---------
 
@@ -27,11 +31,20 @@ Education
 Experience
 ----------
 
-2013 -2016
-**AT&T Israel R&D Center** -  _Big Data Engineer_
+_October 2013 - January 2016_\\
+**AT&T , Israel R&D Center** -  _Big Data Engineer_
 
-    - Integrated Hadoop into traditional ETL, accelerating the extraction, transformation, and loading of massive structured and unstructured data. Read my ETL whitepaper (insert link)
-    - sdasdasdasd
+* Provided technical leadership over multiple projects in Big Data domain . Collaborated with a scrum teams throughout development lifecycle to ensure rapid delivery of products. Performing Hadoop day-to-day operations , including operation, deployment and debugging of job issues. The core member of team that built Real-time Analytics Platform using **Apache Strom** , **Apache Kafka**  and  **Hortonworks HDP**.
+* Lead process of  migration of existing IoT on-premises system to **AWS** cloud .Successfully designed and implemented solution connecting  multiregion  VPC over IPSec tunnel , including tailored application for monitoring and automatic failover . Developed **Ansible** playbook  for one-click deployments of **AWS** instances and provisioning **CoreOS** fleet cluster.
+* Developed and integrated a solution , accelerating ingestion and trasfering process of massive structured data between data lakes.
+* Extensively involved in planning, executing POCs and Product evaluation. Gathered and defined technical requirements for development anomaly detection system using **Hortonwork HDP** and **Apache Spark** .
+
+_April 2005 – October 2013_\\
+**LM Ericsson Israel**  -  _Senior System Engineer_
+
+* Led **OTT IPTV** solutions and integration engineering activities , acting in worldwide projects with strong client and service orientation and consulting skills
+* Participated in process of customer engagement for **CDN** and Telco **Video Optimization** solutions
+
 
 
 * First item
