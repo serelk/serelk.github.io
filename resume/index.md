@@ -40,6 +40,7 @@ _April 2005 – October 2013_\\
 
 _1999 - 2005_\\
 **Pelephone Communication , Israel** - _Network System Administrator_
+
 * Involved in planning or deploying of first CDMA Circuit-Switched  and Packet-Switched data networks 
 * Conducted research , trial  and made recommendations on procurement of technology products and services
 
